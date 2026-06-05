@@ -14,4 +14,6 @@ How can sales and customer behavior data be analyzed to identify revenue trends,
 <li>Data Modeling</li>
 <li>Interactive Visualizations</li></ul>
 
+<h1>Project Goal</h1>
+The objective of this project is to transform raw sales data into meaningful business insights that support better decision-making through data-driven visualizations.
 
