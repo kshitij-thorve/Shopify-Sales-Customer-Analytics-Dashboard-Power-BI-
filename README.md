@@ -9,7 +9,9 @@ How can sales and customer behavior data be analyzed to identify revenue trends,
 <li>Customer behavior analysis and purchasing patterns</li>
 <li>Interactive filters and slicers for dynamic exploration</li></ul>
 
-<h2>Tools & Technologies</h2>
-
+<h2>Tools & Technologies</h2><ul>
+<li>Power BI</li>
+<li>Data Modeling</li>
+<li>Interactive Visualizations</li></ul>
 
 
