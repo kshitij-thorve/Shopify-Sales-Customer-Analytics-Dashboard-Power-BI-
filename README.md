@@ -4,6 +4,7 @@ This project is an interactive Power BI dashboard built to analyze Shopify sales
 #Business Problem
 How can sales and customer behavior data be analyzed to identify revenue trends, customer purchasing patterns, and business growth opportunities?
 
-#Features
+<h1>Features</h1>
+
 
 
